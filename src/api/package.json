@@ -1,0 +1,15 @@
+{
+  "name": "measurements-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.779.0",
+    "graphql": "^15.4.0"
+  }
+}

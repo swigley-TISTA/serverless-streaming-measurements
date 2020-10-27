@@ -1,0 +1,7 @@
+.node_modules
+account.hcl
+.terragrunt-cache
+**/node_modules
+
+**/package-lock.json
+package-lock.json
